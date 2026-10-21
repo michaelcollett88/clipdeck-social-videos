@@ -1,0 +1,35 @@
+{
+  "about": "ClipDeck Reel shelf. The monthly adverts batch takes the first entry with used_in = null, shows it to Mike with the batch, and after his yes schedules it as an Instagram/Facebook Reel (and Threads video), then sets used_in to the month (e.g. '2026-11') and commits.",
+  "reels": [
+    {
+      "id": "R01",
+      "title": "Apply for this role",
+      "file": "reels-ready/ClipDeck-Reel-01-Apply-for-this-role-9x16.mp4",
+      "url": "https://raw.githubusercontent.com/michaelcollett88/clipdeck-social-videos/main/reels-ready/ClipDeck-Reel-01-Apply-for-this-role-9x16.mp4",
+      "facebook_threads_caption": "Applying for jobs on your phone? Every form wants your LinkedIn and portfolio links, and autofill never remembers them.\n\nI keep mine on ClipDeck cards, so I touch one and paste.\n\nhttps://apps.apple.com/gb/app/clipdeck-one-click-copy/id6801850814",
+      "instagram_caption": "Every job form wants your LinkedIn URL. Save it once, touch it, paste. Simple.\n\nLink in bio.\n\n#jobsearch #jobhunting #productivity #iphoneapps #macapps #clipdeck",
+      "approved_by_mike": "2026-10-21",
+      "used_in": null
+    },
+    {
+      "id": "R02",
+      "title": "Brand colours",
+      "file": "reels-ready/ClipDeck-Reel-02-Brand-colours-9x16.mp4",
+      "url": "https://raw.githubusercontent.com/michaelcollett88/clipdeck-social-videos/main/reels-ready/ClipDeck-Reel-02-Brand-colours-9x16.mp4",
+      "facebook_threads_caption": "Building a website for a client? Keep each brand colour on its own card. One tap copies the exact hex code, and the footer text is one tap away too.\n\nhttps://apps.apple.com/gb/app/clipdeck-one-click-copy/id6801850814",
+      "instagram_caption": "Which blue was it again? Every brand colour on its own card, one tap each.\n\nLink in bio.\n\n#webdesign #branding #designtools #freelancedesigner #macapps #clipdeck",
+      "approved_by_mike": "2026-10-21",
+      "used_in": null
+    },
+    {
+      "id": "R03",
+      "title": "Long prompts",
+      "file": "reels-ready/ClipDeck-Reel-03-Long-prompts-9x16.mp4",
+      "url": "https://raw.githubusercontent.com/michaelcollett88/clipdeck-social-videos/main/reels-ready/ClipDeck-Reel-03-Long-prompts-9x16.mp4",
+      "facebook_threads_caption": "Your best AI prompts are long, and retyping (or dictating) them on a phone is a pain. Keep them in ClipDeck and paste the whole prompt in one tap.\n\nhttps://apps.apple.com/gb/app/clipdeck-one-click-copy/id6801850814",
+      "instagram_caption": "Retyping your best prompt? Keep it in ClipDeck. One tap, the whole prompt.\n\nLink in bio.\n\n#aiprompts #aitools #productivity #iphoneapps #macapps #clipdeck",
+      "approved_by_mike": "2026-10-21",
+      "used_in": null
+    }
+  ]
+}
